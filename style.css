@@ -1,0 +1,51 @@
+.branding{
+    height:100px;
+    width:100%;
+    background-color: lightgray;
+    margin:0;
+    padding:0;
+}
+.branding h1{
+    margin:0;
+    text-align: center;
+    padding-top: 30px;
+}
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+.wrapper{
+    display:block;
+    margin:auto;
+    width:30%;
+    margin-top:50px;
+    background-color: #f4f4f4;
+    height:250px;
+}
+.error{
+    background-color: orangered;
+    color:white;
+    padding:5px;
+}
+#my-form > input{
+    width:100%;
+    margin-top:10px;
+    height:25px;
+    border : 1px solid lightgray;
+}
+.btn{
+    background-color: rgb(58, 68, 68);
+    color:white;
+    padding:5px;
+}
+#my-form{
+    margin:auto;
+    padding:30px;
+}
+ul {
+    list-style-type: none;
+    background-color: #f4f4f4;
+}
