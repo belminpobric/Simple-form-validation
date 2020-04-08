@@ -1,1 +1,1 @@
-# Simple-form-validation
+# Form validation using Javascript.
